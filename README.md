@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @AndreasOhligsch
-- 👀 I’m interested in building Enterprise Web Applications, Social Network Applications and simple, fun games. I'm also interested in Blockchain and Cryptocurrencies.
-- 🌱 I’m currently learning ASP.NET and React, but I'm also looking forward to learn Angular and Vue in order to become a more flexible Frontend Developer and
-to find out which Framework/Library is more convenient for specific Use Cases.
+- 👀 I’m interested in building fast and responsive Web Applications and writting clean code. 
+- 🌱 I’m currently learning the MERN Stack, but I'm also looking forward to learn Angular and Vue and other Frameworks in order to become a more flexible Frontend Developer. I have some experience in C#, which is why I'm also interested in Typescript. I also like to keep an eye on Architecture Topics and latest trends in technology.
 - 💞️ I’m looking to collaborate on open-source projects.
 - 📫 How to reach me: andreas_ohl_t@hotmail.com
 
