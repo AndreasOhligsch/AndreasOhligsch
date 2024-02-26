@@ -1,11 +1,14 @@
 - 👋 Hi, I’m @AndreasOhligsch a Software Developer based in Leipzig, Germany.
-- During my 3 Year Qualification at AAIC Soft Systems to become a Software Developer, I learned all about the internal processes of an IT Company and how to use Microsoft's .NET Framework with both C# and VB to build customized ERP- and CRM- Solutions, using Tools from Sage such as the Sage AppDesigner to build the UI and the ReportDesigner to provide Solutions for automated printing of billing documents. During those 3 Years, I also learned a bit about HTML, CSS and JavaScript. I had the opportunity to design the intranet and to create a game of my choice using Javascript. It was then that I decided to dive deeper into web development and find a way to become a Web Developer. 
-- After my Qualification, I worked for different companies, aquiring knowledge in ASP.NET, Entity Framework, React, GraphQL, NextJS and Sass and expanding my knowledge in HTML, CSS and JavaScript.
-- 🌱 I recently finished a 1-year MERN Stack Bootcamp. 
-- Although I have a good understanding of Object Oriented Programming, in the past 1,5 Years I have focused on learning the MERN Stack, which is why I'm currently more proficient in the MERN Stack than in the .NET World, but I'm willing to dive back into .NET in its latest version.
-- 👀 I’m interested in Typescript, Angular, Vue, PHP and Python and in building fast and responsive Web Applications with clean code. 
-- I also like to keep an eye on Software Architecture topics and latest trends in technology.
-- I'm keen to learn about DevOps, the Microservices Architecture, Docker and Kubernetes, but first I want to expand my knwoledge in different programming languages.
+
+💼 Over the course of my three-year qualification at AAIC Soft Systems, I gained comprehensive insights into the workings of an IT company. I developed my skills in using Microsoft's .NET Framework with C# and VB, crafting customized ERP and CRM solutions. This involved employing tools like Sage AppDesigner for UI construction and ReportDesigner for automating the printing of billing documents. Additionally, I picked up foundational knowledge of HTML, CSS, and JavaScript, which ignited my interest in web development.
+
+🚀 Post-qualification, my career took me to various companies where I expanded my expertise in ASP.NET, Entity Framework, React, GraphQL, Next.js, and Sass. I also continued to advance my proficiency in HTML, CSS, and JavaScript.
+
+🎓 I recently completed a one-year MERN Stack Bootcamp, which has shifted my focus toward full-stack development. Although I am well-versed in Object-Oriented Programming, my recent endeavors have concentrated on mastering the MERN Stack.
+
+🌐 My interests currently lie in further exploring technologies such as TypeScript, Angular, Vue, PHP, and Python. I aim to build web applications that are both high-performing and maintain clean code.
+
+🔍 I stay informed of the latest trends in software architecture and technology, and I am eager to delve into the realms of DevOps, Microservices Architecture, Docker, and Kubernetes. Prior to that, my goal is to broaden my proficiency in diverse programming languages.
 
 <!---
 AndreasOhligsch/AndreasOhligsch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
