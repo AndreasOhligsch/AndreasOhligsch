@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AndreasOhligsch a Software Developer based in Leipzig, Germany.
+👋 Hi, I’m @AndreasOhligsch a Software Developer based in Leipzig, Germany.
 
 💼 Over the course of my three-year qualification at AAIC Soft Systems, I gained comprehensive insights into the workings of an IT company. I developed my skills in using Microsoft's .NET Framework with C# and VB, crafting customized ERP and CRM solutions. This involved employing tools like Sage AppDesigner for UI construction and ReportDesigner for automating the printing of billing documents. Additionally, I picked up foundational knowledge of HTML, CSS, and JavaScript, which ignited my interest in web development.
 
