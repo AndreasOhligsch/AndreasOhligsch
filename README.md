@@ -25,7 +25,7 @@ You can click the Preview link to take a look at your changes.
 
 🚀 Nach meiner Ausbildung führte mich meine Karriere zu verschiedenen Unternehmen, bei denen ich meine Expertise in ASP.NET, Entity Framework, React, GraphQL, Next.js und Sass erweiterte. Ich verbesserte auch kontinuierlich meine Fähigkeiten in HTML, CSS und JavaScript.
 
-🎓 Kürzlich habe ich ein einjähriges MERN-Stack-Bootcamp abgeschlossen, das meinen Fokus auf die Full-Stack-Entwicklung verlagert hat. Obwohl ich in der objektorientierten Programmierung gut ausgebildet bin, konzentrierten sich meine jüngsten Bemühungen darauf, den MERN-Stack zu meistern.
+🎓 Kürzlich habe ich eine einjährige MERN-Stack Weiterbildung abgeschlossen, die meinen Fokus auf die Full-Stack-Entwicklung verlagert hat. Obwohl ich in der objektorientierten Programmierung gut ausgebildet bin, konzentrierten sich meine jüngsten Bemühungen darauf, den MERN-Stack zu meistern.
 
 🌐 Derzeit liegt mein Interesse darin, Technologien wie TypeScript, Angular, Vue, PHP und Python weiter zu erkunden. Ich strebe danach, leistungsfähige und reaktionsschnelle Webanwendungen mit sauberem Code zu bauen.
 
@@ -35,11 +35,11 @@ You can click the Preview link to take a look at your changes.
 
 👋  Hola, mi nombre es @AndreasOhligsch y soy Desarrollador de Software basado en Leipzig, Alemania.
 
-💼 Durante mi calificación de tres años en AAIC Soft Systems, obtuve una visión completa de los procesos internos de una empresa de TI. Desarrollé mis habilidades utilizando el .NET Framework de Microsoft con C# y VB, creando soluciones ERP y CRM personalizadas. Esto implicó el uso de herramientas como Sage AppDesigner para la construcción de la interfaz de usuario y ReportDesigner para automatizar la impresión de documentos de facturación. Además, adquirí conocimientos fundamentales de HTML, CSS y JavaScript, lo que despertó mi interés en el desarrollo web.
+💼 Durante mi formación como especialista en informática de tres años en AAIC Soft Systems, obtuve una visión completa de los procesos internos de una empresa de TI. Desarrollé mis habilidades utilizando el .NET Framework de Microsoft con C# y VB, creando soluciones ERP y CRM personalizadas. Esto implicó el uso de herramientas como Sage AppDesigner para la construcción de la interfaz de usuario y ReportDesigner para automatizar la impresión de documentos de facturación. Además, adquirí conocimientos fundamentales de HTML, CSS y JavaScript, lo que despertó mi interés en el desarrollo web.
 
-🚀 Después de mi calificación, mi carrera me llevó a varias empresas donde amplié mi experiencia en ASP.NET, Entity Framework, React, GraphQL, Next.js y Sass. También continué mejorando mi competencia en HTML, CSS y JavaScript.
+🚀 Después de mi formación, mi carrera me llevó a varias empresas donde amplié mi experiencia en ASP.NET, Entity Framework, React, GraphQL, Next.js y Sass. También continué mejorando mi competencia en HTML, CSS y JavaScript.
 
-🎓 Recientemente completé un Bootcamp de MERN Stack de un año, lo que ha cambiado mi enfoque hacia el desarrollo full-stack. Aunque tengo un buen manejo de la Programación Orientada a Objetos, mis esfuerzos recientes se han concentrado en dominar el MERN Stack.
+🎓 Recientemente completé una Formación Continua de MERN Stack de un año, lo que ha cambiado mi enfoque hacia el desarrollo full-stack. Aunque tengo un buen manejo de la Programación Orientada a Objetos, mis esfuerzos recientes se han concentrado en dominar el MERN Stack.
 
 🌐 Actualmente, mis intereses se centran en explorar más a fondo tecnologías como TypeScript, Angular, Vue, PHP y Python. Mi objetivo es construir aplicaciones web que no solo funcionen bien, sino que también mantengan un código limpio.
 
