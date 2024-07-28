@@ -8,9 +8,7 @@
 
 🎓 I recently completed a one-year MERN Stack Bootcamp, which has shifted my focus toward full-stack development. Although I am well-versed in Object-Oriented Programming, my recent endeavors have concentrated on mastering the MERN Stack.
 
-🌐 My interests currently lie in further exploring technologies such as TypeScript, Angular, Vue, PHP, and Python. I aim to build web applications that are both high-performing and maintain clean code.
-
-🔍 I stay informed of the latest trends in software architecture and technology, and I am eager to delve into the realms of DevOps, Microservices Architecture, Docker, and Kubernetes. Prior to that, my goal is to broaden my proficiency in diverse programming languages.
+🌐 My interests currently lie in exploring Microservices Architecture, Docker, and Kubernetes. I aim to build web applications that are both high-performing and maintain clean code and I am eager to delve into the realm of DevOps
 
 <!---
 AndreasOhligsch/AndreasOhligsch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -27,9 +25,7 @@ You can click the Preview link to take a look at your changes.
 
 🎓 Kürzlich habe ich eine einjährige MERN-Stack Weiterbildung abgeschlossen, die meinen Fokus auf die Full-Stack-Entwicklung verlagert hat. Obwohl ich in der objektorientierten Programmierung gut ausgebildet bin, konzentrierten sich meine jüngsten Bemühungen darauf, den MERN-Stack zu meistern.
 
-🌐 Derzeit liegt mein Interesse darin, Technologien wie TypeScript, Angular, Vue, PHP und Python weiter zu erkunden. Ich strebe danach, leistungsfähige und reaktionsschnelle Webanwendungen mit sauberem Code zu bauen.
-
-🔍 Ich halte mich stets über die neuesten Trends in der Softwarearchitektur und Technologie auf dem Laufenden und bin bestrebt, in die Bereiche DevOps, Microservices-Architektur, Docker und Kubernetes einzutauchen. Zuvor ist es jedoch mein Ziel, meine Kenntnisse in verschiedenen Programmiersprachen zu erweitern.
+🌐 Derzeit liegt mein Interesse darin, Microservices-Architektur, Docker und Kubernetes  zu erkunden. Ich strebe danach, leistungsfähige und reaktionsschnelle Webanwendungen mit sauberem Code zu bauen und bin bestrebt, im Bereich DevOps einzutauchen
 
 # Español
 
@@ -41,7 +37,5 @@ You can click the Preview link to take a look at your changes.
 
 🎓 Recientemente completé una Formación Continua de MERN Stack de un año, lo que ha cambiado mi enfoque hacia el desarrollo full-stack. Aunque tengo un buen manejo de la Programación Orientada a Objetos, mis esfuerzos recientes se han concentrado en dominar el MERN Stack.
 
-🌐 Actualmente, mis intereses se centran en explorar más a fondo tecnologías como TypeScript, Angular, Vue, PHP y Python. Mi objetivo es construir aplicaciones web que no solo funcionen bien, sino que también mantengan un código limpio.
-
-🔍 Me mantengo informado sobre las últimas tendencias en arquitectura de software y tecnología, y tengo muchas ganas de adentrarme en los dominios de DevOps, la Arquitectura de Microservicios, Docker y Kubernetes. Antes de eso, mi objetivo es ampliar mi competencia en diferentes lenguajes de programación.
+🌐 Actualmente, mis intereses se centran en explorar a fondo la Arquitectura de Microservicios, Docker y Kubernetes. Mi objetivo es construir aplicaciones web que no solo funcionen bien, sino que también mantengan un código limpio  y tengo muchas ganas de adentrarme en el área de DevOps.
 
